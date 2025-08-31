@@ -52,6 +52,7 @@ int[] snakes = {16, 48, 62, 64, 93, 95, 98};
 int[] snakeTo = {6, 26, 18, 60, 68, 24, 78};
 int[] ladders = {1, 4, 9, 21, 28, 51, 72, 80};
 int[] ladderTo = {38, 14, 31, 42, 84, 67, 91, 99};
+```
 
 ##  Future Scope
 - Add AI opponent and multiplayer mode  
@@ -74,4 +75,5 @@ If this project added value to your learning or work, I’d really appreciate yo
  ravirithanya1@gmail.com  
 
 If this project added value to your learning or work, I’d really appreciate your support by giving it a ⭐ on GitHub.
+
 
