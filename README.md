@@ -58,8 +58,20 @@ int[] ladderTo = {38, 14, 31, 42, 84, 67, 91, 99};
 - Create a simple GUI for better user interaction  
 - Enable saving game progress and scores  
 
+##  Future Scope
+- Add AI opponent and multiplayer mode  
+- Create a simple GUI for better user interaction  
+- Enable saving game progress and scores  
+
 ##  Author
  R Rithanya  
  ravirithanya1@gmail.com  
 
 If this project added value to your learning or work, I’d really appreciate your support by giving it a ⭐ on GitHub.
+
+##  Author
+ R Rithanya  
+ ravirithanya1@gmail.com  
+
+If this project added value to your learning or work, I’d really appreciate your support by giving it a ⭐ on GitHub.
+
